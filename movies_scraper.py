@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 
 url_list = {}
-api_key = "ENTER YOUR API KEY HERE"
+api_key = "6159310175e4da98f1f627f1df97cd6297d7f666"
 
 
 def search_movies(query):
